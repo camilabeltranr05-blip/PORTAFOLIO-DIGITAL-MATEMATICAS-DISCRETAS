@@ -29,11 +29,9 @@
   
 ## SECCIONES DEL PORTAFOLIO
   
-[![Unidad 1](https://img.shields.io/badge/UNIDAD_1-4CAF50?style=for-the-badge)](#unidad-1) <br>
-[![Unidad 2](https://img.shields.io/badge/UNIDAD_2-F44336?style=for-the-badge)](#unidad-2)<br>
-[![Unidad 3](https://img.shields.io/badge/UNIDAD_3-4CAF50?style=for-the-badge)](#unidad-3)<br>
-
-
+<a href="#unidad-1" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_1-4CAF50?style=for-the-badge" alt="Unidad 1"></a> <br>
+<a href="#unidad-2" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_2-F44336?style=for-the-badge" alt="Unidad 2"></a> <br>
+<a href="#unidad-3" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_3-4CAF50?style=for-the-badge" alt="Unidad 3"></a> <br>
 
 </div>
 
