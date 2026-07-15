@@ -54,5 +54,6 @@
 ## EVALUACIÓN SUMATIVA (ES) <br> 
 * **Enlace de Google Drive:** [Haz clic aquí para ver el documento](https://drive.google.com/drive/folders/155jkKagJpM6E0rOcfrC5Ez9qLORzR5mU)
 
-* **REGRESAR:** [Haz clic aquí para regresar al Inicio([https://drive.google.com/drive/folders/155jkKagJpM6E0rOcfrC5Ez9qLORzR5mU](https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/edit/main/README.md#unidad-1))
+## REGRESAR
+[Haz clic aquí para regresar al Inicio](https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/edit/main/README.md#unidad-1))
 
