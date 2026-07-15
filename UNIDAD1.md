@@ -18,7 +18,7 @@
 
 ### 4. Explicación de tablas de verdad  
 
-####Una expresión lógica es una combinación de proposiciones y conectores lógicos como lo es la negación, conjunción o disyunción que representan un razonamiento lógico. Para determinar el número de filas de una tabla de verdad, se utiliza la fórmula donde la base 2 representa los dos posibles valores de verdad (verdadero o falso) y el exponente n es el número de proposiciones que están ya dadas. Además, los resultados finales se clasifican en tautología (todos los valores resultantes son verdaderos), contradicción (todos los valores resultantes son falsos) y contingencia (todos los valores resultantes son verdaderos y falsos).
+#### Una expresión lógica es una combinación de proposiciones y conectores lógicos como lo es la negación, conjunción o disyunción que representan un razonamiento lógico. Para determinar el número de filas de una tabla de verdad, se utiliza la fórmula donde la base 2 representa los dos posibles valores de verdad (verdadero o falso) y el exponente n es el número de proposiciones que están ya dadas. Además, los resultados finales se clasifican en tautología (todos los valores resultantes son verdaderos), contradicción (todos los valores resultantes son falsos) y contingencia (todos los valores resultantes son verdaderos y falsos).
 
 ### 5. Principales leyes lógicas  
 #### Las principales leyes lógicas para resolver ejercicios son:
