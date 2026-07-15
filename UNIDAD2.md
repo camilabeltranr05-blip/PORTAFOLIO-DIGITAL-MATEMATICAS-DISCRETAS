@@ -4,6 +4,8 @@
 
 </div>
 
+## Resumen de la Unidad 2 <br>
+
 ### 1. Optimización de Código (Slicing)
 * **Poda Booleana:** Reducción del tamaño de fragmentos de código (*slices*) mediante la simplificación de expresiones lógicas.
 * **Impacto:** Permite al programador enfocarse únicamente en las variables "determinantes" que afectan el flujo de ejecución, reduciendo el tiempo de depuración en un **76%** de los casos evaluados.
