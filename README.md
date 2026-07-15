@@ -28,9 +28,6 @@
 <div align="center">
   
 ## SECCIONES DEL PORTAFOLIO
-<div align="center">
-  
-## SECCIONES DEL PORTAFOLIO
   
 <a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/main/UNIDAD1" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_1-4CAF50?style=for-the-badge" alt="Unidad 1"></a> <br>
 <a href="#unidad-2" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_2-F44336?style=for-the-badge" alt="Unidad 2"></a> <br>
