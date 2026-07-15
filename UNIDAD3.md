@@ -5,40 +5,72 @@
 </div>
 
 
-## Descripción de la Unidad 3: 
+## Resumen de la Unidad 3: 
 <br>
 
-### 1. Definición de proposición.
-#### Una proposición es una oración lógica que afirma o niega algo y que se puede clasificar como verdadera (V) o falsa (F), pero nunca ambas.
+# TEORÍA DE GRAFOS Y ÁRBOLES: OPTIMIZACIÓN Y ESTRUCTURAS DE DATOS
 
-### 2. Tipos de proposiciones.
-#### Proposiciones Simples: Son proposiciones que no tienen conectores Ejemplo: “Hoy es lunes”. (p)
-#### Proposiciones Compuestas: Se forman uniendo dos o más proposiciones simples mediante conectores. Ejemplo: “Hoy es lunes y tengo clases” (p ∧ q).
+Este apartado aborda el estudio de las estructuras de datos no lineales, fundamentales para el modelado de redes, la organización jerárquica de la información y la optimización de recursos en la ingeniería de computación.
 
-### 3. Conectores lógicos (∧, ∨, ¬, →, ↔).
-<div align="center">
-  <img width="468" height="81" alt="image" src="https://github.com/user-attachments/assets/27a0edfe-dafb-4c93-9821-c233a7074bb4" />
-</div>
+---
 
-### 4. Explicación de tablas de verdad  
+## 1. Teoría de Grafos y Optimización
+Un **grafo** es una estructura matemática representada como $G = (V, E)$, donde $V$ es el conjunto de **vértices** (o nodos) y $E$ es el conjunto de **aristas** (o enlaces). Permite modelar desde redes sociales hasta infraestructuras complejas de transporte.
 
-#### Una expresión lógica es una combinación de proposiciones y conectores lógicos como lo es la negación, conjunción o disyunción que representan un razonamiento lógico. Para determinar el número de filas de una tabla de verdad, se utiliza la fórmula donde la base 2 representa los dos posibles valores de verdad (verdadero o falso) y el exponente n es el número de proposiciones que están ya dadas. Además, los resultados finales se clasifican en tautología (todos los valores resultantes son verdaderos), contradicción (todos los valores resultantes son falsos) y contingencia (todos los valores resultantes son verdaderos y falsos).
+### Clasificación y Circuitos
+* **Direccionalidad:**
+  * **No dirigidos:** Relaciones simétricas (flujo bidireccional).
+  * **Dirigidos (Dígrafos):** Relaciones asimétricas con un sentido específico.
+* **Circuitos Especiales:**
+  * **Circuito de Euler:** Recorre cada **arista** del grafo exactamente una vez.
+  * **Circuito de Hamilton:** Visita cada **vértice** del grafo exactamente una vez.
 
-### 5. Principales leyes lógicas  
-#### Las principales leyes lógicas para resolver ejercicios son:
-<div align="center">
-  
-<img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/72c7cafe-250c-443d-a0f9-8dba7992633c" />
+### Representación Computacional
+Para que una computadora procese un grafo de forma eficiente, se emplean principalmente dos estructuras:
 
-</div>
+| Representación | Ventaja Principal | Caso de Uso Ideal |
+| :--- | :--- | :--- |
+| **Matriz de Adyacencia** | Búsquedas ultra rápidas de conexiones ($O(1)$). | Grafos densos (muchas conexiones). |
+| **Matriz/Lista de Incidencia** | Alta eficiencia en el uso de memoria. | Grafos dispersos (pocas conexiones). |
 
-### 6. Reglas de inferencia.
-#### Las reglas que se utilizan para resolver problemas de inferencia lógica son las siguientes:
-<div align="center">
-  
-<img width="349" height="499" alt="image" src="https://github.com/user-attachments/assets/7cdf0a12-fd00-44e3-b548-1c197ec5be9d" />
+### Algoritmos de Ruta
+* **Algoritmo de Dijkstra:** Es el estándar de oro para encontrar la trayectoria más corta entre un nodo origen y los demás nodos en grafos con aristas ponderadas, minimizando costos, distancias o tiempos de viaje.
 
-</div>
+---
+
+## 2. Teoría de Árboles y Estructuras de Datos
+Un **árbol** es un caso especial de grafo que se define por ser **conexo** y **acíclico** (sin bucles). En esta estructura, existe un único camino posible entre cualquier par de vértices.
+
+### Propiedades y Tipos de Árboles
+* **Fórmula de Aristas:** Para cualquier árbol con $n$ vértices, siempre existirá un total exacto de $n - 1$ aristas.
+* **Árbol de Búsqueda Binaria (BST):** Organiza los datos de manera que los elementos menores que la raíz van a la izquierda y los mayores a la derecha.
+* **Árbol AVL:** Es un BST auto-balanceado que ajusta su altura de forma dinámica tras inserciones o eliminaciones para garantizar tiempos de búsqueda óptimos de $O(\log n)$.
+
+### Recorridos Algorítmicos
+Para procesar o recorrer la información dentro de un árbol binario, se emplean tres métodos sistemáticos:
+
+* **Preorden** (Raíz $\rightarrow$ Izquierda $\rightarrow$ Derecha): Útil para clonar o duplicar la estructura del árbol.
+* **Inorden** (Izquierda $\rightarrow$ Raíz $\rightarrow$ Derecha): Devuelve los elementos en orden ascendente al aplicarse sobre un BST.
+* **Postorden** (Izquierda $\rightarrow$ Derecha $\rightarrow$ Raíz): Esencial para evaluar expresiones matemáticas (notación polaca inversa) y para liberar la memoria del árbol de manera segura.
+
+---
+
+## 3. Integración Práctica y Aplicaciones en Computación
+
+Ambas teorías constituyen los pilares del software moderno y de la resolución de problemas reales:
+
+### Búsquedas Algorítmicas
+* **BFS (Búsqueda en Anchura):** Explora nivel por nivel. Es ideal para encontrar el camino más corto en grafos no ponderados y en el enrutamiento de paquetes de red.
+* **DFS (Búsqueda en Profundidad):** Explora mediante ramas completas antes de retroceder. Es clave para la resolución de dependencias en compiladores y detección de ciclos.
+
+### Tecnologías del Mundo Real
+* **Heaps (Montículos):** Estructuras base para implementar colas de prioridad eficientes.
+* **Tries:** Árboles de prefijos utilizados para el autocompletado rápido de texto.
+* **Árboles B+:** Estructura estándar para los índices en los motores de bases de datos relacionales.
+* **Árboles de Decisión:** Modelos fundamentales en Inteligencia Artificial para el aprendizaje supervisado.
+
+### Impacto Social y Sostenibilidad
+* **Reducción de la Brecha Digital:** Aplicación práctica de algoritmos de **Árboles de Expansión Mínima (MST)**, como Prim o Kruskal, para optimizar el tendido de fibra óptica en zonas rurales (como en la provincia de Loja, Ecuador), minimizando los costos de infraestructura física y el impacto ecológico.
 
 <br><br>
 
@@ -59,6 +91,6 @@
 
 <div align="center">
   
-## REGRESAR
+## 
 <a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/REGRESAR-000000?style=for-the-badge" alt="Regresar"></a>
 </div>
