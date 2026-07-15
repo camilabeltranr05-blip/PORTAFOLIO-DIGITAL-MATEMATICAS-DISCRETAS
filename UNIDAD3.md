@@ -8,12 +8,6 @@
 ## Resumen de la Unidad 3: 
 <br>
 
-# TEORÍA DE GRAFOS Y ÁRBOLES: OPTIMIZACIÓN Y ESTRUCTURAS DE DATOS
-
-Este apartado aborda el estudio de las estructuras de datos no lineales, fundamentales para el modelado de redes, la organización jerárquica de la información y la optimización de recursos en la ingeniería de computación.
-
----
-
 ## 1. Teoría de Grafos y Optimización
 Un **grafo** es una estructura matemática representada como $G = (V, E)$, donde $V$ es el conjunto de **vértices** (o nodos) y $E$ es el conjunto de **aristas** (o enlaces). Permite modelar desde redes sociales hasta infraestructuras complejas de transporte.
 
