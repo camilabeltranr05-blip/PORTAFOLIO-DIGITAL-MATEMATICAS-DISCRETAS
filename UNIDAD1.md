@@ -1,4 +1,4 @@
-<div align="center">
+<img width="468" height="81" alt="image" src="https://github.com/user-attachments/assets/27a0edfe-dafb-4c93-9821-c233a7074bb4" /><div align="center">
   
 # UNIDAD 1
 </div>
@@ -14,7 +14,9 @@
 #### Proposiciones Compuestas: Se forman uniendo dos o más proposiciones simples mediante conectores. Ejemplo: “Hoy es lunes y tengo clases” (p ∧ q).
 
 ### 3. Conectores lógicos (∧, ∨, ¬, →, ↔).
-#### 
+<div align="center">
+  <img src="https://es.flamath.com/wp-content/uploads/conectores-logicos.png" width= "400px"/> 
+</div>
 
 ### 4. Explicación de tablas de verdad  
 
