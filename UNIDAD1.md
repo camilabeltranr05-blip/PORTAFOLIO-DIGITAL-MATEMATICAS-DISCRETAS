@@ -26,6 +26,12 @@
 
 ### 5. Principales leyes lógicas  
 #### Las principales leyes lógicas para resolver ejercicios son:
+<div align="center">
+  
+<img width="396" height="408" alt="image" src="https://github.com/user-attachments/assets/72c7cafe-250c-443d-a0f9-8dba7992633c" />
+
+</div>
+
 
 
 ## A continuación, se presentan los enlaces a las actividades de la unidad: 
