@@ -5,7 +5,7 @@
 </div>
 
 
-## Descripción de la Unidad 1: 
+## Resumen de la Unidad 1: 
 <br>
 
 ### 1. Definición de proposición.
