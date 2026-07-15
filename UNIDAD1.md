@@ -6,7 +6,13 @@
 ## Descripción de la Unidad 1: 
 <br>
 
-### dsa
+### •	Definición de proposición.
+#### -	Una proposición es una oración lógica que afirma o niega algo y que se puede clasificar como verdadera (V) o falsa (F), pero nunca ambas.
+
+### •	Tipos de proposiciones.
+#### -	Proposiciones Simples: Son proposiciones que no tienen conectores Ejemplo: “Hoy es lunes”. (p)
+#### -	Proposiciones Compuestas: Se forman uniendo dos o más proposiciones simples mediante conectores. Ejemplo: “Hoy es lunes y tengo clases” (p ∧ q).
+
 
 ## A continuación, se presentan los enlaces a las actividades de la unidad: 
 <br>
