@@ -31,7 +31,7 @@
   
 <a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/main/UNIDAD1.md" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_1-4CAF50?style=for-the-badge" alt="Unidad 1"></a> <br>
 <a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/main/UNIDAD2.md" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_2-F44336?style=for-the-badge" alt="Unidad 2"></a><br>
-<a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/new/main" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_3-4CAF50?style=for-the-badge" alt="Unidad 3"></a>
+<a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/main/UNIDAD3.md" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_3-4CAF50?style=for-the-badge" alt="Unidad 3"></a>
 
 </div>
   
