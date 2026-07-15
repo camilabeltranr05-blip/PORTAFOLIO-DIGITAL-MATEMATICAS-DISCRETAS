@@ -57,7 +57,7 @@
 <div align="center">
   
 ## REGRESAR
-[Haz clic aquí para regresar al Inicio](https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/edit/main/README.md#unidad-1)
+<a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/principal/UNIDAD1.md" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_1-4CAF50?style=for-the-badge" alt="Unidad 1"></a> <br>
 
 </div>
 
