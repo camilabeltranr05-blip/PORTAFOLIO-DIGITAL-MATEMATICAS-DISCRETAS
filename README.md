@@ -28,28 +28,14 @@
 <div align="center">
   
 ## SECCIONES DEL PORTAFOLIO
+<div align="center">
   
-<a href="#unidad-1" target="_blank"><img src="[https://img.shields.io/badge/UNIDAD_1-4CAF50?style=for-the-badge](https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/main/UNIDAD1)" alt="Unidad 1"></a> <br>
+## SECCIONES DEL PORTAFOLIO
+  
+<a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/main/UNIDAD1" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_1-4CAF50?style=for-the-badge" alt="Unidad 1"></a> <br>
 <a href="#unidad-2" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_2-F44336?style=for-the-badge" alt="Unidad 2"></a> <br>
 <a href="#unidad-3" target="_blank"><img src="https://img.shields.io/badge/UNIDAD_3-4CAF50?style=for-the-badge" alt="Unidad 3"></a> <br>
 
 </div>
-
-<br><br>
-
-# Unidad 1  
-## ***1. Contenidos Teóricos***
-
   
----
-  
-# Unidad 2
-## ***1. Contenidos Teóricos***
 
----
-
-# Unidad 3
-## NO APLICA
-<br><br>
-
----
