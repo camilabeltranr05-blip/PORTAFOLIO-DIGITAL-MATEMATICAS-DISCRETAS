@@ -32,7 +32,15 @@
 
 </div>
 
+### 6. Reglas de inferencia.
+#### Las reglas que se utilizan para resolver problemas de inferencia lógica son las siguientes:
+<div align="center">
+  
+<img width="349" height="499" alt="image" src="https://github.com/user-attachments/assets/7cdf0a12-fd00-44e3-b548-1c197ec5be9d" />
 
+</div>
+
+<br><br>
 
 ## A continuación, se presentan los enlaces a las actividades de la unidad: 
 <br>
