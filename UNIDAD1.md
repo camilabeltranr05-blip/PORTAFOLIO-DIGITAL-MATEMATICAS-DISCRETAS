@@ -56,7 +56,6 @@
 
 <div align="center">
   
-## REGRESAR
 <a href="https://github.com/camilabeltranr05-blip/PORTAFOLIO-DIGITAL-MATEMATICAS-DISCRETAS/blob/main/README.md" target="_blank"><img src="https://img.shields.io/badge/REGRESAR-000000?style=for-the-badge" alt="Regresar"></a>
 </div>
 
